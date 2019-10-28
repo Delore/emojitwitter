@@ -21,14 +21,14 @@
 
 ## Descrição
 ### Camada de Dados:
-* Foi aplicado o padrão MPV e Architecture para separar as responsabilidade de cada camada.
-* Usando o Dagger foi possível separar as dependencia da camadas de dados com as outras camadas.
-* Na camada de dados foi utilizado o Retrofit, simplesmente facilita muito as requisições de HTTPs, juntamente com o uso do Gson para serializar e desserializar os JSONs.
-* Foi criado um padrão para criar as requisições e tratar os dados salvando em banco de dados todos os resultados para acesso quando o device estiver sem conexão com a internet.
-* Para o banco de dados foi utilizado o Room.
+* Foi aplicado o padrão MPV e Architecture para separar as responsabilidade de cada camada.
+* Usando o Dagger foi possível separar as dependencia da camadas de dados com as outras camadas.
+* Na camada de dados foi utilizado o Retrofit, simplesmente facilita muito as requisições de HTTPs, juntamente com o uso do Gson para serializar e desserializar os JSONs.
+* Foi criado um padrão para criar as requisições e tratar os dados salvando em banco de dados todos os resultados para acesso quando o device estiver sem conexão com a internet.
+* Para o banco de dados foi utilizado o Room.
 
 ### Camada de Dominio
-* Apenas foi criado as entidades nesta camada.
+* Apenas foi criado as entidades nesta camada.
 
 ### Camada de Apresentação
 * Nesta camada foi utilizado o presenter e view para separar as responsabilidades.
