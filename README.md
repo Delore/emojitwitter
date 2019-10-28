@@ -39,7 +39,7 @@
 * Criando também algumas classes bases, para reaproveitar alguns recursos e evitar códigos duplicados.
 
 # Vídeo
-![Screenshot](youtube.jpg)(https://youtu.be/V70YzNiSvsw)
+[![Assista o vídeo demonstrativo](https://github.com/Delore/emojitwitter/blob/master/youtube.jpg)](https://youtu.be/V70YzNiSvsw "Assista o vídeo demonstrativo")
 
 # Contato
 ### E-Mail: [delore23@mail.com](delore23@gmail.com)
