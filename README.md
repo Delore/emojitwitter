@@ -38,7 +38,7 @@
 * Para navegação foi utilizado o Navigation que permitiu cria um navegação sem se preocupar com a pilha de fragments.
 * Criando também algumas classes bases, para reaproveitar alguns recursos e evitar códigos duplicados.
 
-# Vídeo
+# Assista o vídeo demonstrativo
 [![Assista o vídeo demonstrativo](https://github.com/Delore/emojitwitter/blob/master/youtube.jpg)](https://youtu.be/V70YzNiSvsw "Assista o vídeo demonstrativo")
 
 # Contato
