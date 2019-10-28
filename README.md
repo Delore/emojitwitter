@@ -13,7 +13,7 @@
 5. Downloads e cache de imagem utilizando Picasso.
 6. Aplicação de arquitetura Clean Architecture com Android Architecture Components
 7. Utilização do Dagger2 para inversão de dependencia.
-8. Utilização de banco de dados SQlite para armazenar dados offline.
+8. Utilização de banco de dados SQLite para armazenar dados offline.
 9. Utilização bibliotecas do Android Jetpack(Room, LiveDate, Navigation e LifeCycles).
 10. Utilização de animações em Lottie.
 11. Utilização do padrão MPV.
