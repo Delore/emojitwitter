@@ -38,6 +38,8 @@
 * Para navegação foi utilizado o Navigation que permitiu cria um navegação sem se preocupar com a pilha de fragments.
 * Criando também algumas classes bases, para reaproveitar alguns recursos e evitar códigos duplicados.
 
+# Vídeo
+![Screenshot](youtube.jpg)(https://youtu.be/V70YzNiSvsw)
 
 # Contato
 ### E-Mail: [delore23@mail.com](delore23@gmail.com)
